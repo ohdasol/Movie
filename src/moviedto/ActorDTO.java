@@ -53,7 +53,7 @@ public class ActorDTO {
 		StringBuilder builder = new StringBuilder();
 		builder.append(" [ ");
 		builder.append(actorName);
-		builder.append(", ³ªÀÌ : ");
+		builder.append(", ï¿½ï¿½ï¿½ï¿½ : ");
 		builder.append(actorAge);
 		builder.append(", Å° :");
 		builder.append(actorHeight);
